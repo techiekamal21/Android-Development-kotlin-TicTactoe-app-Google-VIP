@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "841777188499",
+    "project_id": "funtictactoe",
+    "storage_bucket": "funtictactoe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841777188499:android:70b5b3296558db2b644766",
+        "android_client_info": {
+          "package_name": "getkpts.kptsdevelopers.kptsmytictactoegame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841777188499-pq211t9f03qkhk1idd6u0l8r88bnajlj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "getkpts.kptsdevelopers.kptsmytictactoegame",
+            "certificate_hash": "e151263b8f80a347ef30be3c746a213d4093834a"
+          }
+        },
+        {
+          "client_id": "841777188499-65a7m328s4f6hn55phpqs9jgerd5ssoc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIKxRCOn_u25MRkx4eqTFlEkZKxcp7l68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841777188499-65a7m328s4f6hn55phpqs9jgerd5ssoc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fun Tic-Tac-Toe</string>
+    <string name="player1nameHint">player1 name</string>
+    <string name="player2nameHint">player2 name</string>
+    <string name="action_settings">Settings</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+    <string name="aboutme">GeTKPTS Developers! , Here only Time Matters! </string>
+    <string name="title_activity_afterstart">Fun Tic-Tac-Toe</string>
+</resources>
